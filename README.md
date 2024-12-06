@@ -4,7 +4,8 @@ Summary: This project focuses on the analysis of histone modifications and trans
 
 ## Data Details
 
-Samples: Left ventricular tissue samples
+Samples: Left ventricular tissue samples from the publicly available ENCODE (Encyclopedia of DNA Elements) database. The dataset includes ATAC-Seq (Assay for Transposase-Accessible Chromatin using sequencing) and ChIP-Seq (Chromatin Immunoprecipitation Sequencing) data.
+
 Features Analyzed: Histone modification patterns, transcription factor binding sites, and gene regulatory networks
 
 ## Analyses Performed  
